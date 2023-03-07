@@ -6,7 +6,7 @@
 ● Used Rest Controller in spring framework to create RESTful web services and JSON objects for communication. 
 ● Used the functionality of annotation(@) to implement the concept of Inversion of Control(@Component) & Dependency Injection(@Autowired).
 
-Project is broadly classified into th  ee following catagories:
+Broadly the flow of the code is as follows :
 1) Model Class--> 2) Repository--> 3) Service--> 4) Controller--> Client
 
 DATABASE Name = bmsdb.  
