@@ -11,3 +11,4 @@ Broadly the flow of the code is as follows :
 
 DATABASE Name = bmsdb.  
 
+![Capture1](https://user-images.githubusercontent.com/116874340/224399506-116e2773-04c5-4d0c-96f6-acedacbdaf3a.PNG)
